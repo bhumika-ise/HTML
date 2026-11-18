@@ -1,0 +1,8 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: white;
+    padding: 24px;
+}
+#changeBtn{
+    background: red;
+}
